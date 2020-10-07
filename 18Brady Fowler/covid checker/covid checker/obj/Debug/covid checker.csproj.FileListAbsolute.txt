@@ -1,0 +1,7 @@
+P:\Digital\VS\18Brady Fowler\covid checker\covid checker\obj\Debug\covid checker.csprojAssemblyReference.cache
+P:\Digital\VS\18Brady Fowler\covid checker\covid checker\obj\Debug\covid checker.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Brady Fowler\covid checker\covid checker\bin\Debug\covid checker.exe.config
+P:\Digital\VS\18Brady Fowler\covid checker\covid checker\bin\Debug\covid checker.exe
+P:\Digital\VS\18Brady Fowler\covid checker\covid checker\bin\Debug\covid checker.pdb
+P:\Digital\VS\18Brady Fowler\covid checker\covid checker\obj\Debug\covid checker.exe
+P:\Digital\VS\18Brady Fowler\covid checker\covid checker\obj\Debug\covid checker.pdb

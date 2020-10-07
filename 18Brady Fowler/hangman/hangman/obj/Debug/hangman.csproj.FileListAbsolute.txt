@@ -1,0 +1,7 @@
+P:\Digital\VS\18Brady Fowler\hangman\hangman\bin\Debug\hangman.exe.config
+P:\Digital\VS\18Brady Fowler\hangman\hangman\bin\Debug\hangman.exe
+P:\Digital\VS\18Brady Fowler\hangman\hangman\bin\Debug\hangman.pdb
+P:\Digital\VS\18Brady Fowler\hangman\hangman\obj\Debug\hangman.csprojAssemblyReference.cache
+P:\Digital\VS\18Brady Fowler\hangman\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Brady Fowler\hangman\hangman\obj\Debug\hangman.exe
+P:\Digital\VS\18Brady Fowler\hangman\hangman\obj\Debug\hangman.pdb
